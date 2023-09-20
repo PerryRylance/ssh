@@ -1,0 +1,20 @@
+{
+    "name": "perry-rylance/ssh",
+    "description": "Adaption of spatie/ssh which adds support for Windows.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PerryRylance\\Ssh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Perry Rylance",
+            "email": "contact@perryrylance.com"
+        }
+    ],
+    "require": {
+        "spatie/ssh": "^1.9"
+    }
+}
