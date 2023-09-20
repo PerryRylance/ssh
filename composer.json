@@ -11,7 +11,9 @@
     "authors": [
         {
             "name": "Perry Rylance",
-            "email": "contact@perryrylance.com"
+            "email": "contact@perryrylance.com",
+			"homepage": "https://perryrylance.com",
+			"role": "Developer"
         }
     ],
     "require": {
