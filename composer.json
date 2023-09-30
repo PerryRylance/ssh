@@ -3,6 +3,7 @@
     "description": "Adaption of spatie/ssh which adds support for Windows.",
     "type": "library",
     "license": "MIT",
+	"version": "1.0.0",
     "autoload": {
         "psr-4": {
             "PerryRylance\\Ssh\\": "src/"
